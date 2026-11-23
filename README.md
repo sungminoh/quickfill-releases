@@ -23,7 +23,7 @@ Both shortcuts can be changed in Settings. With iCloud, QuickFill on your Mac an
 
 ## Updates
 
-QuickFill doesn't update itself yet. New versions are posted on the [releases page](https://github.com/sungminoh/quickfill-releases/releases); download the DMG again and replace the app.
+From version 1.0.2, QuickFill checks for a new version once a day and installs it (Settings › General has the switches). If you have 1.0.1 or earlier, download the DMG once more and replace the app; your settings, history and models are kept. All versions are on the [releases page](https://github.com/sungminoh/quickfill-releases/releases).
 
 [Privacy policy](https://sungminoh.github.io/pages/quickfill/privacy/) · [Support](https://sungminoh.github.io/pages/quickfill/support/)
 
@@ -45,4 +45,4 @@ Apple 실리콘 Mac, macOS 15 이상이 필요합니다.
 
 **⌃⌥D**로 받아쓰기, **⌃⌥V**로 클립보드·스니펫·기록·AI 패널을 엽니다. 단축키는 설정에서 바꿀 수 있습니다.
 
-아직 자동 업데이트가 없습니다. 새 버전은 [릴리스 페이지](https://github.com/sungminoh/quickfill-releases/releases)에 올라오니, DMG를 다시 받아 앱을 바꿔 주세요.
+1.0.2부터는 하루에 한 번 새 버전을 확인해 설치합니다(설정 › 일반). 1.0.1 이하라면 DMG를 한 번만 더 받아 앱을 바꿔 주세요. 설정, 기록, 모델은 그대로 남습니다. 모든 버전은 [릴리스 페이지](https://github.com/sungminoh/quickfill-releases/releases)에 있습니다.
