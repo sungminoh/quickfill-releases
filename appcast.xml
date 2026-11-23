@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>QuickFill for Mac</title>
+    <link>https://github.com/sungminoh/quickfill-releases</link>
+    <description>Updates for QuickFill for Mac</description>
+    <language>en</language>
+    <item>
+      <title>1.0.2</title>
+      <pubDate>Mon, 23 Nov 2026 21:55:06 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/sungminoh/quickfill-releases/releases/tag/v1.0.2</link>
+      <description sparkle:format="markdown">- **Automatic updates**: QuickFill checks for a new version once a day and installs it for you. If one turns up while you're working, a dot appears on the menu bar icon; open the menu to install it. Settings › General shows the version and has switches for checking and for automatic install.
+- From now on you won't need to download QuickFill by hand.
+
+To update from 1.0.1 or earlier: quit QuickFill from the menu bar, open the DMG and drag QuickFill into Applications, replacing the old copy. Your settings, history and downloaded models are kept.
+
+Requires macOS 15 or later on an Apple silicon Mac.
+
+---
+
+- **자동 업데이트**: 하루에 한 번 새 버전을 확인하고 설치해 줍니다. 작업 중에 새 버전이 나오면 메뉴 막대 아이콘에 점이 생기고, 메뉴에서 설치할 수 있습니다. 설정 › 일반에서 버전을 보고, 자동 확인과 자동 설치를 켜고 끌 수 있습니다.
+- 이제부터는 QuickFill을 직접 내려받지 않아도 됩니다.
+
+1.0.1 이하에서 업데이트하려면: 메뉴 막대에서 QuickFill을 종료하고, DMG를 열어 QuickFill을 응용 프로그램 폴더에 끌어 놓아 기존 앱을 대치하세요. 설정, 기록, 받은 모델은 그대로 남습니다.</description>
+      <enclosure url="https://github.com/sungminoh/quickfill-releases/releases/download/v1.0.2/QuickFill.dmg" length="43068384" type="application/octet-stream" sparkle:edSignature="K15Re7S8t+NfQw4YFcgC3vfO4eRQvt/w+p0TXzSlJSVlM8ee6YWJZwnL4FZoHI3KMXhrHvHRw6MbzWExxaZYAA==" />
+    </item>
+  </channel>
+</rss>
