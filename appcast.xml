@@ -6,6 +6,28 @@
     <description>Updates for QuickFill for Mac</description>
     <language>en</language>
     <item>
+      <title>1.0.4</title>
+      <pubDate>Tue, 24 Nov 2026 22:00:52 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/sungminoh/quickfill-releases/releases/tag/v1.0.4</link>
+      <description sparkle:format="markdown">- **Hide the dictation window**: the new eye button puts the window away while the dictation goes on. It comes back by itself when there is something to read, such as a failure, and **Show Dictation Window** in the menu bar menu brings it back any time. Hiding lasts for the current dictation only. Close still cancels, as Esc does.
+- After a failure you can retry, hiding the message keeps the recording, so the hotkey can still retry it within 30 seconds of the failure. Closing the message discards the recording.
+
+To update from 1.0.1 or earlier: quit QuickFill from the menu bar, open the DMG and drag QuickFill into Applications, replacing the old copy. Your settings, history and downloaded models are kept.
+
+Requires macOS 15 or later on an Apple silicon Mac.
+
+---
+
+- **받아쓰기 창 숨기기**: 새 눈 모양 버튼을 누르면 창만 사라지고 받아쓰기는 계속됩니다. 실패처럼 읽을 것이 생기면 저절로 다시 나타나고, 메뉴 막대 메뉴의 **받아쓰기 창 보이기**로 언제든 다시 볼 수 있습니다. 숨기기는 이번 받아쓰기에만 적용됩니다. 닫기는 전과 같이 Esc처럼 받아쓰기를 취소합니다.
+- 다시 시도할 수 있는 실패 안내를 숨기면 녹음이 남아, 실패 후 30초 안에 단축키로 다시 시도할 수 있습니다. 안내를 닫으면 녹음을 버립니다.
+
+1.0.1 이하에서 업데이트하려면: 메뉴 막대에서 QuickFill을 종료하고, DMG를 열어 QuickFill을 응용 프로그램 폴더에 끌어 놓아 기존 앱을 대치하세요. 설정, 기록, 받은 모델은 그대로 남습니다.</description>
+      <enclosure url="https://github.com/sungminoh/quickfill-releases/releases/download/v1.0.4/QuickFill.dmg" length="43123610" type="application/octet-stream" sparkle:edSignature="HxPDheboxsiwYlBW+Fu/vjsXcQ5uRy503sQWUYWPPJrARpBSopg0RWuvuv49jvJ/4Z92fweQN46LWS/OqPbQBQ==" />
+    </item>
+    <item>
       <title>1.0.3</title>
       <pubDate>Tue, 24 Nov 2026 09:14:26 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
