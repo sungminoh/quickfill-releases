@@ -6,6 +6,28 @@
     <description>Updates for QuickFill for Mac</description>
     <language>en</language>
     <item>
+      <title>1.0.3</title>
+      <pubDate>Tue, 24 Nov 2026 09:14:26 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/sungminoh/quickfill-releases/releases/tag/v1.0.3</link>
+      <description sparkle:format="markdown">- **Move, minimize and close the dictation window**: drag it anywhere and it opens there from then on; its pin button puts it back next to the cursor. Minimize shrinks it to a single line while you keep talking. Close cancels the dictation, as Esc does, or dismisses a message. The app you're typing in keeps focus.
+- A failed dictation's message can now be closed. It offered Esc before, which didn't work there.
+
+To update from 1.0.1 or earlier: quit QuickFill from the menu bar, open the DMG and drag QuickFill into Applications, replacing the old copy. Your settings, history and downloaded models are kept.
+
+Requires macOS 15 or later on an Apple silicon Mac.
+
+---
+
+- **받아쓰기 창 이동·최소화·닫기**: 창을 끌어 원하는 곳에 두면 다음부터 그 자리에 뜨고, 핀 버튼을 누르면 다시 커서 옆에 뜹니다. 최소화하면 말하는 동안 한 줄로 줄어듭니다. 닫기는 Esc처럼 받아쓰기를 취소하거나, 안내 문구를 닫습니다. 입력 중인 앱의 포커스는 그대로입니다.
+- 받아쓰기 실패 안내를 닫을 수 있습니다. 전에는 Esc로 취소하라고 나왔지만 동작하지 않았습니다.
+
+1.0.1 이하에서 업데이트하려면: 메뉴 막대에서 QuickFill을 종료하고, DMG를 열어 QuickFill을 응용 프로그램 폴더에 끌어 놓아 기존 앱을 대치하세요. 설정, 기록, 받은 모델은 그대로 남습니다.</description>
+      <enclosure url="https://github.com/sungminoh/quickfill-releases/releases/download/v1.0.3/QuickFill.dmg" length="43112866" type="application/octet-stream" sparkle:edSignature="ur6Xp0LPLCX9qhpTx0j4nNgld6p6UjtWxuWg12jDdWfaISKhqXOKGu7pu7G5JGdl9fYQ1unABVzXwiKF+pk5DA==" />
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>Mon, 23 Nov 2026 21:55:06 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
