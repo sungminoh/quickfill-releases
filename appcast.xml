@@ -6,6 +6,32 @@
     <description>Updates for QuickFill for Mac</description>
     <language>en</language>
     <item>
+      <title>1.0.5</title>
+      <pubDate>Thu, 26 Nov 2026 08:05:24 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/sungminoh/quickfill-releases/releases/tag/v1.0.5</link>
+      <description sparkle:format="markdown">- **API keys on all your devices**: keys you enter for an API connection are now kept in iCloud Keychain, so QuickFill on your iPhone and your other Macs signed in to the same Apple Account can use them without entering them again. Keys you entered before move there when QuickFill opens. Needs Passwords &amp; Keychain turned on in iCloud settings.
+- **Adding an API connection is simpler**: choose a provider (OpenAI, Anthropic, Gemini, OpenRouter, Groq) and paste your key; a link takes you to where to get one. Saving checks the key and picks a model. The address, authentication and temperature are under **Advanced**, and **Custom Server** covers Ollama, LM Studio and proxies. API connections are now at the top of **Language Models**.
+- After adding a connection while AI cleanup is off, QuickFill asks whether to use it for cleanup.
+- **Erase All Data on This Mac** leaves API keys in iCloud Keychain for your other devices.
+
+To update from 1.0.1 or earlier: quit QuickFill from the menu bar, open the DMG and drag QuickFill into Applications, replacing the old copy. Your settings, history and downloaded models are kept.
+
+Requires macOS 15 or later on an Apple silicon Mac.
+
+---
+
+- **모든 기기에서 쓰는 API 키**: API 연결에 입력한 키가 이제 iCloud 키체인에 저장되어, 같은 Apple 계정으로 로그인한 iPhone과 다른 Mac의 QuickFill에서 다시 입력하지 않고 쓸 수 있습니다. 전에 입력한 키는 QuickFill을 열 때 옮겨집니다. iCloud 설정에서 암호 및 키체인이 켜져 있어야 합니다.
+- **더 간단해진 API 연결 추가**: 제공자(OpenAI, Anthropic, Gemini, OpenRouter, Groq)를 고르고 키만 붙여 넣으면 됩니다. 키 발급 페이지로 가는 링크도 있습니다. 저장하면 키를 확인하고 모델을 골라 줍니다. 주소, 인증 방식, Temperature는 **고급**에 있고, Ollama, LM Studio, 프록시는 **직접 설정**으로 연결합니다. API 연결은 **언어 모델** 맨 위로 옮겼습니다.
+- AI 후처리가 꺼진 상태에서 연결을 추가하면 후처리에 쓸지 물어봅니다.
+- **이 Mac의 데이터 모두 지우기**는 iCloud 키체인의 API 키를 다른 기기를 위해 남겨 둡니다.
+
+1.0.1 이하에서 업데이트하려면: 메뉴 막대에서 QuickFill을 종료하고, DMG를 열어 QuickFill을 응용 프로그램 폴더에 끌어 놓아 기존 앱을 대치하세요. 설정, 기록, 받은 모델은 그대로 남습니다.</description>
+      <enclosure url="https://github.com/sungminoh/quickfill-releases/releases/download/v1.0.5/QuickFill.dmg" length="42915846" type="application/octet-stream" sparkle:edSignature="Xu+n8WlXhoOjiXQGCEoHTpVdDBWdI1Ht7DEyEmtDRgI/f142wrwpvfY86SSpqrE0R2p4G01xJCltyEiLmG9aBQ==" />
+    </item>
+    <item>
       <title>1.0.4</title>
       <pubDate>Tue, 24 Nov 2026 22:00:52 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
